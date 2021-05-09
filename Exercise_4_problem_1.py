@@ -21,7 +21,7 @@
 # YOUR CODE HERE
 def fahr_to_celsius(temp_fahrenheit):
   converted_temp=(temp_fahrenheit-32)/1.8
-  return str(temp_fahrenheit) + "° Fahrenheit is " + str(converted_temp) + " Celsius"
+  return converted_temp
 
 # ### Problem 1 test
 # 
